@@ -1,0 +1,12 @@
+asgiref==3.3.1
+certifi==2020.12.5
+chardet==4.0.0
+Django==3.1.6
+django-rosetta==0.9.5
+idna==2.10
+polib==1.1.0
+pytz==2021.1
+requests==2.25.1
+six==1.15.0
+sqlparse==0.4.1
+urllib3==1.26.3
